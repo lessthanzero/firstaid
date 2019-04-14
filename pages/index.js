@@ -1,10 +1,12 @@
-var showdown = require('showdown'),
-    converter = new showdown.Converter(),
-    text = require('./static/texts.md'),
-    html = converter.makeHtml(text);
+import text from '../static/texts.md';
+console.log(text);
+// const showdown = require('showdown'),
+//     converter = new showdown.Converter(),
+//     html = converter.makeHtml(text);
 
 function Home() {
-    return html;
+    // return html;
+    return 'Hello';
 }
 
 export default Home;
