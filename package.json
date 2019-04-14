@@ -1,0 +1,23 @@
+{
+  "name": "firstaid",
+  "version": "0.0.1",
+  "description": "An open-sourced version of the Red Cross First Aid recommendations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lessthanzero/firstaid.git"
+  },
+  "keywords": [
+    "firstaid",
+    "redcross"
+  ],
+  "author": "Alexander Katin",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/lessthanzero/firstaid/issues"
+  },
+  "homepage": "https://github.com/lessthanzero/firstaid#readme"
+}
